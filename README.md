@@ -38,7 +38,8 @@ ___
 | [i2 Analyst's Notebook](https://support.i2group.com/s/analysts-notebook) :new: | Unavailable | - | **2023** | Paid | :x: |
 | [Sentinel Visualizer](https://fmsasg.com/) :new: | Unavailable | - | **2023** | Paid | :x: |
 | [Wolfram Mathematica](https://www.wolfram.com/mathematica/) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [yFiles](https://www.yworks.com/) :new: | Unavailable | - | **2023** | Paid | :x: |
+| [yWorks' yFiles](https://www.yworks.com/products/yfiles) :new: | Unavailable | - | **2023** | Paid | :x: |
+| [yWorks' yEd](https://www.yworks.com/products/yed) ([live](https://www.yworks.com/yed-live/)) :new: | Unavailable | - | **2023** | Free | :x: | 
 | [Polinode](https://www.polinode.com/) | Unavailable | - | 2022 | Paid/Free | :x: |
 | [NetMiner](http://www.netminer.com) | Unavailable | - | 2022 | Paid | :x: |
 | [GUESS](http://graphexploration.cond.org/) | Unavailable | - | 2007 | GPL | :white_check_mark: |
