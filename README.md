@@ -28,22 +28,22 @@ ___
 | [motif.gl](https://www.cylynx.io/motif) :new: | [cylynx/motif.gl](https://github.com/cylynx/motif.gl) | >100 | **2023** | MIT | :white_check_mark: |
 | Graphi | [kyleruss/graphi](https://github.com/kyleruss/graphi) | <100 | 2018 | MIT | :white_check_mark: |
 | GraphInsight | [CarloNicolini/GraphInsight](https://github.com/CarloNicolini/GraphInsight)[^3] | <100 | 2016 | Custom | :white_check_mark: |
-| [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) :new: | Unavailable | - | **2023** | Freeware | :x: |
-| [LaDataViz AdvViz](https://www.ladataviz.com/tools/advviz/network) :new: | Unavailable | - | 2023 | Freeware | :x: |
-| [UCINET](https://sites.google.com/site/ucinetsoftware/) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [NodeXL](https://nodexlgraphgallery.org/) :new: | Unavailable | - | **2023** | Paid/Free | :x: |
-| [Flourish Studio](https://flourish.studio/) :new: | Unavailable | - | **2023** | Paid/Free | :x: |
-| [Linkurious](https://linkurious.com/) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [i2 Analysis Studio](https://support.i2group.com/s/analysis-studio) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [i2 Analyst's Notebook](https://support.i2group.com/s/analysts-notebook) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [Sentinel Visualizer](https://fmsasg.com/) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [Wolfram Mathematica](https://www.wolfram.com/mathematica/) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [yWorks' yFiles](https://www.yworks.com/products/yfiles) :new: | Unavailable | - | **2023** | Paid | :x: |
-| [yWorks' yEd](https://www.yworks.com/products/yed) ([live](https://www.yworks.com/yed-live/)) :new: | Unavailable | - | **2023** | Free | :x: | 
-| [Polinode](https://www.polinode.com/) | Unavailable | - | 2022 | Paid/Free | :x: |
-| [NetMiner](http://www.netminer.com) | Unavailable | - | 2022 | Paid | :x: |
-| [GUESS](http://graphexploration.cond.org/) | Unavailable | - | 2007 | GPL | :white_check_mark: |
-| [newGRAPH](https://www.mi.sanu.ac.rs/newgraph) | Unavailable | - | 2006 | ? | :white_check_mark: |
+| [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) :new: | - | - | **2023** | Freeware | :x: |
+| [LaDataViz AdvViz](https://www.ladataviz.com/tools/advviz/network) :new: | - | - | 2023 | Freeware | :x: |
+| [UCINET](https://sites.google.com/site/ucinetsoftware/) :new: | - | - | **2023** | Paid | :x: |
+| [NodeXL](https://nodexlgraphgallery.org/) :new: | - | - | **2023** | Paid/Free | :x: |
+| [Flourish Studio](https://flourish.studio/) :new: | - | - | **2023** | Paid/Free | :x: |
+| [Linkurious](https://linkurious.com/) :new: | - | - | **2023** | Paid | :x: |
+| [i2 Analysis Studio](https://support.i2group.com/s/analysis-studio) :new: | - | - | **2023** | Paid | :x: |
+| [i2 Analyst's Notebook](https://support.i2group.com/s/analysts-notebook) :new: | - | - | **2023** | Paid | :x: |
+| [Sentinel Visualizer](https://fmsasg.com/) :new: | - | - | **2023** | Paid | :x: |
+| [Wolfram Mathematica](https://www.wolfram.com/mathematica/) :new: | - | - | **2023** | Paid | :x: |
+| [yWorks' yFiles](https://www.yworks.com/products/yfiles) :new: | - | - | **2023** | Paid | :x: |
+| [yWorks' yEd](https://www.yworks.com/products/yed) ([live](https://www.yworks.com/yed-live/)) :new: | - | - | **2023** | Free | :x: | 
+| [Polinode](https://www.polinode.com/) | - | - | 2022 | Paid/Free | :x: |
+| [NetMiner](http://www.netminer.com) | - | - | 2022 | Paid | :x: |
+| [GUESS](http://graphexploration.cond.org/) | - | - | 2007 | GPL | :white_check_mark: |
+| [newGRAPH](https://www.mi.sanu.ac.rs/newgraph) | - | - | 2006 | ? | :white_check_mark: |
 
 [^1]: Last updated on October 13th, 2023. To obtain the stars count: `curl -s https://api.github.com/repos/abc/xyz | jq '.stargazers_count'`
 
